@@ -1,0 +1,52 @@
+.history-list-container {
+  font-family: 'Roboto';
+  height: auto;
+  width: auto;
+  display: flex;
+}
+.date-card {
+  width: 100%;
+  display: flex;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.time-card {
+  font-size: 18px;
+  font-weight: bolder;
+  color: #64748b;
+}
+.history-info-card {
+  margin-left: 6%;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-url {
+  width: auto;
+  height: 40px;
+  padding-right: 10px;
+}
+.title {
+  color: #475569;
+  font-size: 18px;
+  padding-right: 10px;
+  font-size: 18px;
+}
+.domain-url {
+  color: #64748b;
+  font-size: 18px;
+  padding-right: 10px;
+  font-size: 18px;
+}
+.btn-card {
+  display: flex;
+  justify-content: flex-end;
+}
+.btn-style {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
